@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Executing Last <<<<<]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[Running test in Google]]>
+    </line>
+    <line>
+      <![CDATA[Opened https://www.coinopsolutions.com/]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[Step no: 1]]>
+    </line>
+    <line>
+      <![CDATA[Coporate link was clicked]]>
+    </line>
+    <line>
+      <![CDATA[Hover to Sales]]>
+    </line>
+    <line>
+      <![CDATA[Max was clicked]]>
+    </line>
+    <line>
+      <![CDATA[Step no: 2]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Terminating Last <<<<<]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+  </reporter-output>
+  <suite name="Sample Test" duration-ms="28158" started-at="2018-12-11T10:23:53Z" finished-at="2018-12-11T10:24:21Z">
+    <groups>
+    </groups>
+    <test name="Sample Google Test" duration-ms="28158" started-at="2018-12-11T10:23:53Z" finished-at="2018-12-11T10:24:21Z">
+      <class name="acn.test.Last">
+        <test-method status="PASS" signature="TricentisVal()[pri:0, instance:acn.test.Last@71be98f5]" name="TricentisVal" duration-ms="28114" started-at="2018-12-11T18:23:53Z" finished-at="2018-12-11T18:24:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Executing Last <<<<<]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[Running test in Google]]>
+            </line>
+            <line>
+              <![CDATA[Opened https://www.coinopsolutions.com/]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[Step no: 1]]>
+            </line>
+            <line>
+              <![CDATA[Coporate link was clicked]]>
+            </line>
+            <line>
+              <![CDATA[Hover to Sales]]>
+            </line>
+            <line>
+              <![CDATA[Max was clicked]]>
+            </line>
+            <line>
+              <![CDATA[Step no: 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TricentisVal -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:acn.test.Last@71be98f5]" name="endTest" is-config="true" duration-ms="1" started-at="2018-12-11T18:24:21Z" finished-at="2018-12-11T18:24:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Terminating Last <<<<<]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- acn.test.Last -->
+    </test> <!-- Sample Google Test -->
+  </suite> <!-- Sample Test -->
+</testng-results>
